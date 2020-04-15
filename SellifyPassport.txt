@@ -1,0 +1,6 @@
+SELLIFY
+Client ID: 1
+Client secret: 5EBjd7b79XdrURFwKwsEHCnZHBu0MP2oms0Tlgms
+Password grant client created successfully.
+Client ID: 2
+Client secret: YKMnhDWN3mrO3jgrn5SLRaZlBrax4quG7v1UzHPh
