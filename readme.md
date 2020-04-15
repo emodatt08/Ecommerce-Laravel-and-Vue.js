@@ -1,6 +1,6 @@
 # Vue.js and laravel Ecommerce App
 
-<h2 id="screenshots">Screenshot</h2>
+<h2 id="screenshots">Screenshots</h2>
 
 ![](screenshots/1.png)
 ![](screenshots/2.png)
