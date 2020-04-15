@@ -6,13 +6,13 @@ This Web App allows registered users to upload files.
 
 ```````````````````````````````````````````````````
 <h2 id="screenshots">Home</h2>
-![](screenshots/a.PNG)
+![](screenshots/a.png)
 
 <h2 id="screenshots">Cart Modal</h2>
-![](screenshots/b.PNG)
+![](screenshots/b.png)
 
 <h2 id="screenshots">Checkout</h2>
-![](screenshots/c.PNG)
+![](screenshots/c.png)
 ``````````````````````````````````````````````````````
 
 <h2 id="development">Development</h2>
